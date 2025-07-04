@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1751244597,
-            "filename": "PixelOS_tanzanite-15.0-20250630-0050.zip",
-            "id": "4dae11291e39dac599af46cdb1861bc7",
-            "size": 2049932998,
-            "url": "https://github.com/pos-xyz-personal/ota/releases/download/PixelOS_tanzanite-15.0-20250630-0050/PixelOS_tanzanite-15.0-20250630-0050.zip",
+            "datetime": 1751590020,
+            "filename": "PixelOS_tanzanite-15.0-20250704-0047.zip",
+            "id": "270567fd2dd7d887a100dedb14514626",
+            "size": 2050462528,
+            "url": "https://github.com/pos-xyz-personal/ota/releases/download/PixelOS_tanzanite-15.0-20250704-0047/PixelOS_tanzanite-15.0-20250704-0047.zip"
             "version": "15"
         }
     ]
