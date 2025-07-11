@@ -1,3 +1,12 @@
+# July 11, 2025
+- Switch back to GpuPwrLevel for GPU boosting
+- Tweak LMKD settings
+- Drop debug.sf.enable_transaction_tracint
+- Stop forcing triple framebuffers
+- Prefer HW media codecs over SW.
+- Import RSC properties
+- Import missing GNSS init (not sure if GPS is fixed)
+
 # 4 July 2025
 - Import libmisoundcrossfade stack
 - Set nr_requests to 64 for Storage
