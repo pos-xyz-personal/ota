@@ -1,3 +1,8 @@
+# July 12, 2025
+- Resolve jiiov fingerprint sensor (finally)
+- Configure citsensor stack (sybau, logspam)
+- Import missing radio stack
+
 # July 11, 2025
 - Switch back to GpuPwrLevel for GPU boosting
 - Tweak LMKD settings
