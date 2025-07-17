@@ -1,3 +1,10 @@
+# July 16, 2025
+- Resolve GNSS delay issue
+- Sync with stock SF properties
+- Upref blobs, kernel to OS2.0.202.0.VOGEUXM
+- Enable aux cameras on Aperture
+- Import misound stack
+
 # July 12, 2025
 - Resolve jiiov fingerprint sensor (finally)
 - Configure citsensor stack (sybau, logspam)
