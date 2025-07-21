@@ -1,3 +1,18 @@
+# July 22, 2025
+- Tweak surfaceflinger properties
+- Resolve screen-off udfps
+- Use FUSE passthrough by default
+- Enable zygote critical window
+- Setup display color compositions
+- Add AOSP color properties
+- Switch to lineage libperfmgr
+- Switch to xiaomi-touch node for DT2W
+- Switch to udfps_optical for fingerprint type
+- Reduce system server verbosity
+- Supress citsensor logspams
+- Downscale task snapshots to 70%
+- Optimize media configs
+
 # July 16, 2025
 - Resolve GNSS delay issue
 - Sync with stock SF properties
