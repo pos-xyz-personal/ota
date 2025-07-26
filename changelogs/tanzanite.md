@@ -1,3 +1,11 @@
+# July 27, 2025
+- Ship MtkInCallService
+- Switch back to proprietary MTK IMS
+- Add GPUBlockBoost node on powerhint
+- Disable GED KPI
+- Remove CDMA support (resolves IMEI/RIL global variant issue)
+- Minor changes on source and stability improvement
+
 # July 22, 2025
 - Tweak surfaceflinger properties
 - Resolve screen-off udfps
