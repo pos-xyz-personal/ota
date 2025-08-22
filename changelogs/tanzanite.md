@@ -1,3 +1,10 @@
+# August 22, 2025
+- Import missing EEA's audio_params
+- Add UclampTAMin to FIXED_PERFORMANCE action
+- Yet another SF tuning
+- Optimize HWUI properties
+- Boost big cluster on EXPENSIVE_RENDERING
+
 # July 27, 2025
 - Ship MtkInCallService
 - Switch back to proprietary MTK IMS
