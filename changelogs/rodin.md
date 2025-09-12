@@ -1,3 +1,12 @@
+# September 12, 2025
+- Shipped Dolby Atmos
+- Resolve small audio strength (dirty workarounds)
+- Resolved fast charging
+- Resolved hotspot overlays
+- Moved to Lineage lights common HAL
+- Disable game default frame rate feature
+- Enable ZRAM
+
 # September 8, 2025
 - Tune-out the powerhint
 - Enable HWUI optimizations
