@@ -1,3 +1,11 @@
+# September 18, 2025
+- Shipped MiuiCamera
+- Shipped JamesDSP
+- Enable aux cameras on Aperture (unlocks ultrawide and 2160p60)
+- Resolve brightness overlays
+
+NB: MiuiCamera cannot take a picture, but video is working fine. Also the bokeh mode doesn't work neither, Use Aperture instead to take some picture.
+
 # September 12, 2025
 - Shipped Dolby Atmos
 - Resolve small audio strength (dirty workarounds)
