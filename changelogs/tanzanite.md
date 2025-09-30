@@ -1,3 +1,11 @@
+# October 1, 2025
+- Merged September SP
+- Re-enable GED KPI
+- Enable bass enhancer on speaker (Dolby)
+- Re-adjust property overrides
+- Ship GameSpace
+- Minor changes on source and stability improvement
+
 # August 22, 2025
 - Import missing EEA's audio_params
 - Add UclampTAMin to FIXED_PERFORMANCE action
