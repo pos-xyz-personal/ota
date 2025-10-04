@@ -1,3 +1,13 @@
+# October 04, 2025
+- Resolved HDR
+- Resolved in-call volume
+- Fixup missing symlinks
+- Fixup dolby audios
+- Fixup SoFOD on focaltech displays
+- Added and resolved thermal profiles (XMParts)
+- Dropped MiuiCamera
+- Minor optimizations and stability improvement
+
 # September 18, 2025
 - Shipped MiuiCamera
 - Shipped JamesDSP
