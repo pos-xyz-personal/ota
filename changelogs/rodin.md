@@ -1,3 +1,8 @@
+# October 11, 2025
+- Update firmware into OS2.0.204.0.VOJMIXM and kernel to 6.6.56
+- Partially fixed abd Shipped miuicamera (1080p60/4k60 dies sadly)
+- Resolved proximity sensor issue
+
 # October 04, 2025
 - Resolved HDR
 - Resolved in-call volume
