@@ -1,3 +1,13 @@
+# November 20, 2025
+- Increase keyguard bottom text
+- Refactor automatic brightness values
+- Reduce FOD placement
+- Switch to xiaomi's vibratorfeature richtap
+- Drop soc7 connectivity firmware
+- Refactor power HAL, udfpshandler to use xiaomi-touch
+- Import gamebar
+- Resolve USB tethering
+
 # October 11, 2025
 - Update firmware into OS2.0.204.0.VOJMIXM and kernel to 6.6.56
 - Partially fixed abd Shipped miuicamera (1080p60/4k60 dies sadly)
